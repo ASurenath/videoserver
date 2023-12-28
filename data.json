@@ -1,0 +1,98 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Taba Chake - Udd Chala (Official Video)",
+      "videoUrl": "https://www.youtube.com/embed/mg291dg1nHI?autoplay=1",
+      "coverImgUrl": "https://i.ytimg.com/vi/mg291dg1nHI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDltF-ADcbVaRpd_Snb3TO4LxcDWg"
+    },
+    {
+      "id": 2,
+      "title": "Isq Risk | Full Song | Mere Brother Ki Dulhan | Katrina Kaif, Imran Khan | Rahat Fateh Ali Khan",
+      "videoUrl": "https://www.youtube.com/embed/pHu4PLhuKgQ?autoplay=1",
+      "coverImgUrl": "https://i.ytimg.com/vi/mP45oz_IR9Y/sddefault.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Madno Re | Lyrics | Lamhaa | 2010",
+      "videoUrl": "https://www.youtube.com/embed/rC0uWsnPuEA?autoplay=1",
+      "coverImgUrl": "https://i.ytimg.com/vi/rC0uWsnPuEA/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mera pehla pehla pyaar",
+      "videoUrl": "https://www.youtube.com/embed/OW6LBjKvTpo?autoplay=1",
+      "coverImgUrl": "https://c.saavncdn.com/552/MP3-Mera-Pehla-Pehla-Pyaar-2007-500x500.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Bekaraan Full Song | Superstar | Mahira Khan | Bilal Ashraf | Ali Sethi & Zeb Bangash | Azaan & Saad",
+      "videoUrl": "https://www.youtube.com/embed/XzfqKA_Asi4?autoplay=1",
+      "coverImgUrl": "https://i.ytimg.com/vi/XzfqKA_Asi4/hqdefault.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Venmathi Venmathiye Official Video | Minnale | Harris Jayaraj | Madhavan | Gautham V. Menon",
+      "videoUrl": "https://www.youtube.com/embed/PnV0RQ96XU4?autoplay=1",
+      "coverImgUrl": "https://i.ytimg.com/vi/et5ip5iV8bY/maxresdefault.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "title": "Tamil",
+      "videos": [
+        {
+          "id": 6,
+          "title": "Venmathi Venmathiye Official Video | Minnale | Harris Jayaraj | Madhavan | Gautham V. Menon",
+          "videoUrl": "https://www.youtube.com/embed/PnV0RQ96XU4?autoplay=1",
+          "coverImgUrl": "https://i.ytimg.com/vi/et5ip5iV8bY/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Malayalam",
+      "videos": [
+        {
+          "id": 4,
+          "title": "Mera pehla pehla pyaar",
+          "videoUrl": "https://www.youtube.com/embed/OW6LBjKvTpo?autoplay=1",
+          "coverImgUrl": "https://c.saavncdn.com/552/MP3-Mera-Pehla-Pehla-Pyaar-2007-500x500.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Hindi/Urdu",
+      "videos": [
+        {
+          "id": 5,
+          "title": "Bekaraan Full Song | Superstar | Mahira Khan | Bilal Ashraf | Ali Sethi & Zeb Bangash | Azaan & Saad",
+          "videoUrl": "https://www.youtube.com/embed/XzfqKA_Asi4?autoplay=1",
+          "coverImgUrl": "https://i.ytimg.com/vi/XzfqKA_Asi4/hqdefault.jpg"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": 4,
+      "title": "Madno Re | Lyrics | Lamhaa | 2010",
+      "videoUrl": "https://www.youtube.com/embed/rC0uWsnPuEA?autoplay=1",
+      "time": "2023-12-27 05:00 PM"
+    },
+    {
+      "id": 5,
+      "title": "Bekaraan Full Song | Superstar | Mahira Khan | Bilal Ashraf | Ali Sethi & Zeb Bangash | Azaan & Saad",
+      "videoUrl": "https://www.youtube.com/embed/XzfqKA_Asi4?autoplay=1",
+      "time": "2023-12-28 02:37 PM"
+    },
+    {
+      "id": 7,
+      "title": "Isq Risk | Full Song | Mere Brother Ki Dulhan | Katrina Kaif, Imran Khan | Rahat Fateh Ali Khan",
+      "videoUrl": "https://www.youtube.com/embed/pHu4PLhuKgQ?autoplay=1",
+      "time": "2023-12-28 02:37 PM"
+    }
+  ]
+}
